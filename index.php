@@ -10,6 +10,7 @@
 <body>
   <h1>SALAM ASELOLE PEDOT!</h1>
   <h5>mentorku ganteng</h5> 
+  <h6>barok love lina</h6>
 </body>
 
 </html>
